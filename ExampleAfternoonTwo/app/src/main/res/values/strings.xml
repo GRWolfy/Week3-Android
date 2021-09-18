@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleAfternoonTwo</string>
+    <string name="lbl_greet">GREET</string>
+    <string name="hnt_name">Enter your name</string>
+</resources>
